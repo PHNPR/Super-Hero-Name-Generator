@@ -1,2 +1,2 @@
 # Super-Hero-Name-Generator
-A character level language model to generate Super Hero names.
+A machine learning model implemented in Tensoflow to generate Super Hero names.
